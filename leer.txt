@@ -1,0 +1,12 @@
+Ejecutar el archivo "install_requirements" para instalar los modulos necesario para correr el bot.
+Luego ejecutar el archivo "start.bat"
+Tener activados los intents del bot para que se pueda iniciar.
+
+
+Todos los creditos para Gyazo, Samy, 4p Gang/Antiplague.
+
+
+Links:
+https://discord.gg/antiplague
+https://www.instagram.com/yungsamy4p/
+https://www.instagram.com/gyazo_ed/
