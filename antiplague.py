@@ -90,7 +90,7 @@ def menu():
                                                {Fore.MAGENTA}│                                                                  │{Fore.RESET}
                                                {Fore.MAGENTA}│                        {Fore.WHITE}Command list:{Fore.RESET}                             {Fore.MAGENTA}│{Fore.RESET}
                                                {Fore.MAGENTA}│                                                                  │{Fore.RESET}
-                                               {Fore.MAGENTA}│            {Fore.WHITE}.cdel, .rdel, .ccr (mount), .rename .changeicon{Fore.RESET}               {Fore.MAGENTA}│{Fore.RESET}
+                                               {Fore.MAGENTA}│            {Fore.WHITE}.cdel, .rdel, .ccr (mount), .rename .changeicon{Fore.RESET}       {Fore.MAGENTA}│{Fore.RESET}
                                                {Fore.MAGENTA}│                                                                  │{Fore.RESET}
                                                {Fore.MAGENTA}│               {Fore.WHITE}for detailed information use .help{Fore.RESET}                 {Fore.MAGENTA}│{Fore.RESET}
                                                {Fore.MAGENTA}│         {Fore.WHITE}versión completa en: https://discord.gg/cgmsedcuec{Fore.RESET}       {Fore.MAGENTA}│{Fore.RESET}
